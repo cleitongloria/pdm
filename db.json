@@ -1,4 +1,17 @@
 {
-  "vogais": ["a", "e", "i", "o", "u"],
-  "numeros_naturais": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  "deuses_gregos": 
+  [
+    "afrodite",
+    "apolo", 
+    "ares",
+    "atena",
+    "dionisio"
+  ],
+  "constelaçoes": 
+  ["adromeda",
+    "cruzeiro do sul",
+    "ursa maior",
+    "fenix",
+    "pegaso"
+  ]
 }
