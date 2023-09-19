@@ -1,17 +1,16 @@
 {
-  "deuses_gregos": 
-  [
-    "afrodite",
-    "apolo", 
-    "ares",
-    "atena",
-    "dionisio"
+  "deuses_mitologicos": [
+    "Zeus",
+    "Thor",
+    "Apolo",
+    "Hércules",
+    "Vishnu"
   ],
-  "constelaçoes": 
-  ["adromeda",
-    "cruzeiro do sul",
-    "ursa maior",
-    "fenix",
-    "pegaso"
+  "constelacoes": [
+    "Orion",
+    "Cassiopeia",
+    "Ursa Maior",
+    "Andrômeda",
+    "Leão"
   ]
 }
