@@ -1,16 +1,20 @@
 {
-  "deuses_mitologicos": [
-    "Zeus",
-    "Thor",
-    "Apolo",
-    "Hércules",
-    "Vishnu"
+  "pedras": [
+    "ametista",
+    "selenita",
+    "diamante",
+    "esmeralda"
   ],
-  "constelacoes": [
-    "Orion",
-    "Cassiopeia",
-    "Ursa Maior",
-    "Andrômeda",
-    "Leão"
+  "numeros": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
   ]
 }
